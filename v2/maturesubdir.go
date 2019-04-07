@@ -1,0 +1,5 @@
+package maturesubdir
+
+func Hello() {
+
+}
